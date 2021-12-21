@@ -1,2 +1,3 @@
-# assignment_vpc
-assignment_vpc
+# Rahul VPC
+
+Creates a two-tiered VPC (private and dmz) with NAT gateway
